@@ -49,6 +49,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
+    webrick (1.7.0)
 
 PLATFORMS
   x86_64-linux
@@ -60,6 +61,7 @@ DEPENDENCIES
   rspec_junit_formatter
   rubysl-securerandom
   sinatra (~> 2.0)
+  webrick
 
 BUNDLED WITH
    2.3.19
